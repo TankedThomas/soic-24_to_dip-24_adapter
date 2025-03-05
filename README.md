@@ -2,6 +2,8 @@
 ## Currently untested - this line will be removed once I have a chance to test it
 This is basic adapter PCB for using SOIC-24 chips (SMD) as DIP-24 chips (through-hole), made in KiCad.
 
+![CAD preview](images/kicad_model.png)
+
 The adapter is designed to be more or less the same size as a regular DIP-24 IC.
 
 It's especially useful for ICs available in an SOIC-24 package but no longer in a DIP-24 package, such as modern 6116 RAM chips.
